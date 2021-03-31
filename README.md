@@ -1,8 +1,5 @@
 # construct_dev 
+Application constructor for Moscow e-School
 
-Открываем командную строку, переходим в каталог с проектом(cd д\ире\ктория)
+Enter ```node index.js``` in the root directory to run node.js server. The app will be available at `localhost:3000`
 
-запускаем файл сервера (node main.js)
-
-открываем localhost:3000
-если вывелось "hello четотам", все нормально, иначе call for help, попросите чтобы я помог 
